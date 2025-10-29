@@ -437,3 +437,4 @@ public final class JpaRelationshipExtractor {
         System.out.println("[JpaRelationshipExtractor] " + s);
     }
 }
+

@@ -294,3 +294,4 @@ public final class DbInteractionExtractor {
         return s.replace("\\", "\\\\").replace("\"", "\\\"");
     }
 }
+
